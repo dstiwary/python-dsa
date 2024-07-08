@@ -7,3 +7,7 @@ Order of the tree is the number of children each node has, if the node has 2 nod
 Trees are 
 
 Binary Search tree is where
+
+NExt set of tasks 
+Queues 
+Priti
